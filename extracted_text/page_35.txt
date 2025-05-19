@@ -1,0 +1,21 @@
+Profit & Loss Statement (2/2)
+
+Particulars QUFY24 Q4FY23 QIFY23 FY23
+Profit / (loss) for the period 0.69 24.50 0.84 33.09
+Less: Other Income 0.20 0.24 0.27 1.31
+Less: Other gains/(losses) - net 0.75 0.49 0.41 1.76
+Add: Depreciation expense 0.04 0.07 0.02 0.19
+Add: Current tax 0.05 0.12 - 0.12
+Add: Deferred tax expense 0.18 (23.26) - (23.26)
+EBITDA 0.02 0.69 0.19 7.06
+EBITDA Margin 0.08% 3.42% 1.01% 9.04%
+Add: Exceptional items - IPO expenses, reimbursable - - - (4.49)
+EBITDA excl IPO expense 0.02 0.69 0.19 2.57
+EBITDA Margin excl IPO expense 0.08% 3.42% 1.01% 3.29%
+Profit / (loss) for the period 0.69 24.50 0.84 33.09
+Add: Exceptional items - IPO expenses, reimbursable - - - (4.49)
+Add: Deferred tax expense - (23.26) - (23.26)
+PAT excl IPO expense and Deferred Tax 0.69 1.25 0.84 5.34
+PAT Margin excl IPO expense and Deferred Tax 3.48% 6.12% 4.54% 6.84%
+
+q yTracxn

@@ -1,0 +1,1050 @@
+
+--- Page 1 ---
+Copyright © 2019, Tracxn Technologies Private Limited. All rights reserved.
+Private Market Intelligence Platform
+Q1 FY24 Investor Presentation
+ 1st August 2023
+
+
+--- Page 2 ---
+By attending this presentation including the commentary by the Company management 
+and the transcript of the same, together (“Presentation”) and/or accepting a copy of it, 
+you agree to be bound by the foregoing limitations and conditions:
+This Presentation is prepared by Tracxn Technologies Limited (“Company”) solely for 
+information purposes and does not constitute an offer, solicitation, recommendation, or 
+invitation to purchase or subscribe for any securities and shall not form the basis of or 
+be relied on in connection with any contract or binding commitment whatsoever. This 
+Presentation does not consider, nor does it provide any tax, legal, or investment advice 
+or opinion regarding the specific investment objectives or financial situation of any 
+person. This Presentation may not be copied, reproduced, summarised, disseminated, 
+or redistributed to any other person in any manner whatsoever without the Company’s 
+prior consent in each instance. This Presentation has not been and will not be reviewed 
+or approved by any regulatory authority or by any stock exchange in India. No rights or 
+obligations of whatsoever nature are created or shall be deemed to be created by the 
+contents of this Presentation.
+The Company, its affiliates, shareholders, directors, employees, or advisors do not make 
+any representation or warranty, expressed or implied, and no undue reliance should be 
+placed on the accuracy, fairness, or completeness of the information contained in this 
+Presentation. The Company, nor any of its advisers or representatives accepts any 
+liability whatsoever for any actual or consequential loss or damages howsoever arising 
+from the provision or use of any information contained in this Presentation. The 
+information contained in this Presentation should be considered in the context of the 
+situations prevailing at the time when the Presentation was made and are to be read in 
+conjunction with the company’s financial results, uploaded on the Stock Exchanges 
+where the Company is listed. The Company expressly disclaims any obligation or 
+undertaking to supplement, publicly amend or disseminate any updates or revisions to 
+any information/statement contained in the Presentation to reflect any change in 
+events, conditions, or circumstances including economic, regulatory, market, and other 
+developments on which any such information is based.
+Disclaimer
+This Presentation may contain, words or phrases that are forward-looking statements that 
+involve risks and uncertainties and are based on certain beliefs, plans, and expectations of 
+the Company. Although the Company believes that such forward-looking statements are 
+based on reasonable assumptions, it can give no assurance that such expectations will be 
+met. Actual future performance, outcomes, and results may differ materially from those 
+expressed in forward-looking statements because of several risks, uncertainties including 
+but not limited to our ability to implement our strategy successfully, the market acceptance 
+of and demand for our offering, technological changes, volatility in global capital markets, 
+pandemic and international and domestic events having a bearing on the Company’s 
+business. You must not place undue reliance on these forward-looking statements, which 
+are based on the current views of the Company’s management.
+The operating metrics reported in this Presentation are calculated using internal Company 
+data based on the operational activities. While these numbers are based on what the 
+Company believes to be reasonable estimates for the applicable period of measurement, 
+there are inherent challenges in measuring across some operational metrics. The 
+methodologies used to measure these metrics require considerable judgment and are also 
+susceptible to an algorithm or other technical errors. The Company systematically reviews 
+its processes for calculating these metrics from time to time and may discover inaccuracies 
+in the metrics or may make adjustments to improve their accuracy, which can result in 
+adjustments to previously disclosed metrics. In addition, the Company metrics may differ 
+from estimates published by third parties due to differences in methodology. 
+To facilitate understanding, some non-GAAP metrics are used  and financial amounts are 
+converted from ₹ Lakhs into ₹ Crores for this Presentation hence, there could be some 
+totalling anomalies in the numbers.
+
+
+--- Page 3 ---
+Tracxn Overview
+Tracxn is a Data & Software platform 
+for the Private Markets globally
+We work with Venture Capital Firms, Private 
+Equity Firms, Investment Banks - as well as M&A 
+& Innovation teams of large Corporates
+Global Platform, customers span 50+ countries
+
+
+--- Page 4 ---
+Q1 FY24 Financial Performance
+
+
+--- Page 5 ---
+PAT Margin
+3.5 %
+   
+EBITDA Margin
+0.1%
+   
+PAT
+0.7 Cr.
+    
+Revenue from Operations
+19.8 Cr.
+EBITDA
+ 
+0.02 Cr.
+   
+Free Cash Flow2
+0.6 Cr.
+ 
+Cash & Cash Equivalents1
+61.9 Cr.
+Total Income
+20.8 Cr.
+In INR
+0.17 Cr. YoY, down 
+from Q1 FY23
+0.1 Cr. YoY, down 
+from Q1 FY23
+Margin reduced by 0.9% 
+from Q1 FY23
+Margin reduced by 1.1% 
+from Q1 FY23
+30% YoY
+9% YoY 
+8% YoY 
+14.1 Cr. YoY
+Q1 FY24: Financial Performance Summary
+Revenue grew at a slower pace, marginal impact on margins 
+Note: (1) Cash & Cash eqv = Cash & Cash eqv, Investments & FDs, Security Deposit towards listing as on 30th June 2023.    
+          (2) Free Cash Flow and Cash & Cash eqv excludes tax amounts received from employees against ESOP exercise as on 30th June 2023
+0.9 Cr. YoY, down 
+from Q1 FY23
+REVENUE
+PROFITABILITY
+OTHER
+
+
+--- Page 6 ---
+Revenue from Operations (in INR Cr.)
+Total Income (in INR Cr.)
+Note: (*) Total Income net of for Fair value gain/ (loss) on CCPS for FY21
+34%
+CAGR
+Historical Annual
+Revenue from operations grew at 8% YoY for Q1FY24
+Q1 FY24: Continued Revenue Growth Momentum
+Historical Annual
+34%
+CAGR
+  8 %
+ 
+ 9 %
+
+
+--- Page 7 ---
+EBITDA Margin
+EBITDA 
+(in INR Cr.)
+Historical Annual
+PAT 
+(in INR Cr.)
+Historical Annual
+Excluding 
+non-cash ESOP 
+expense this is 
+1.6 Cr.
+Q1 FY24: EBITDA & PAT 
+PAT Margin
+Historical Annual
+Historical Annual
+Excluding 
+non-cash ESOP 
+expense this is 
+0.9 Cr.
+ 
+Note: (*) Net of for Fair value gain/ (loss) on CCPS for FY21
+
+
+--- Page 8 ---
+Historical Annual:
+Incremental Revenue going into Bottomline
+Incremental revenue offset by increase in employee and overhead expenses
+(in INR Cr.)
+Q1FY23
+Q1FY24
+FY 21
+FY 22
+FY 23
+Revenue from operations
+18.4
+19.8
+43.8
+63.5
+78.1
+Incremental Revenue from Operations (Δ)
++1.4
++6.4
++19.7
++14.7
+EBITDA excl IPO Expense
+0.2
+0.02
+(17.1)
+(1.9)
+2.6
+Incremental EBITDA excl IPO Expense (Δ)
+(0.2)
++5.4
++15.1
++4.5
+Incremental EBITDA as a % of
+Incremental Revenue from Operations
+-
+84%
+77%
+31%
+
+
+--- Page 9 ---
+11%
+CAGR
+Q1 FY24: Expense Breakup 
+   Total Expense - Breakup (for Q1FY24)
+    (in INR Cr.)
+●
+Bulk or 88% of total expense is emp. cost (this was 89%, 88% in FY22 & FY23)
+●
+Cloud Hosting charges are the 2nd largest expense after emp. benefit expenses
+●
+No large digital marketing spend for customer acquisition (since we are a data 
+company, we are able to use in-house content to generate organic traffic)
+Total Expense 
+(in INR Cr.)
+ 9 % 
+Historical Annual
+Employee Benefit Expenses
+17.4 Cr.
+87.6%
+Salaries, Wages & Bonus*
+16.1 Cr.
+81.1%
+Employee stock option expense
+0.9 Cr.
+4.5%
+Other Employee Benefit Expenses
+0.4 Cr.
+1.9%
+Depreciation Expense
+0.04 Cr.
+0.2%
+Other Expenses
+2.4 Cr.
+12.2%
+Cloud Hosting Charges
+0.7 Cr.
+3.4%
+Rent for Building
+0.5 Cr.
+2.5%
+Remaining Other Expenses
+1.3 Cr.
+6.3%
+Total Expenses
+19.8 Cr.
+100%
+Note: (*) Statutory contributions like PF have been merged with Salaries, Wages & Bonus which was earlier part of Other Employee Benefit Expenses
+
+
+--- Page 10 ---
+Note: (1) All expenses under Employee Benefit Expenses, including non-cash items such as ESOP and gratuity provisions  (*) Daily average for the period
+Expense growth eased 
+Total Expense
+(in INR Cr.)
+   16 %
+Avg. Headcount* Trend for last 5 Quarters
+814
+Ending HC
+Total Employee Exp.1      58.6               16.2               16.3               17.0             17.6                              17.4      
+9 %
+Expense growth got eased. Headcount had increased last year due to growth initiatives, and subsequently 
+has been optimized due to automation & efficiency initiatives as indicated last Quarter
+(INR Cr.) 
+
+
+--- Page 11 ---
+Global Tech Funding
+(in USD Bn.)
+India Tech Funding
+(in USD Bn.)
+# Unicorns created globally
+# Unicorns created in India
+GLOBAL TECH FUNDING:
+at a 5yr low
+LATE-STAGE FUNDING:
+(proxy # new unicorn rounds)
+Decline is more stark, 
+at a 9yr low
+Private Markets - Quick snapshot
+
+
+--- Page 12 ---
+GLOBAL M&A:
+Lowest in 10yr, 
+after 2020
+Private Markets - Quick snapshot
+Global M&A deal value and IB fees at its lowest
+Global M&A
+(in USD Tn.)
+Reference : Financial Times
+M&A advisory fees
+(in USD Bn.)
+IB M&A ADVISORY 
+FEES:
+One of the lowest 
+in the last 10yr
+
+
+--- Page 13 ---
+Private Markets - Quick snapshot
+Public markets have recovered this year
+When will private markets bounce back?
+●Typically there is a lag of 2-3Qs between public 
+tech and private market
+●With public markets having recovered this year, 
+likely to see some recovery in private tech soon
+
+
+--- Page 14 ---
+23%
+CAGR
+Deferred Revenue (in INR Cr.) and its YoY growth
+Deferred revenue growth saw acceleration in Q1FY24
+Seeing some greenshoots
+
+
+--- Page 15 ---
+Platform engagement looks healthy
+Usage has been increasing consistently
+Trend of platform usage metrics in terms of # of Exports and Myanalyst queries
+Despite lower external deal 
+activity, customer’s platform 
+engagement still looks very 
+healthy and increasing. 
+(Customer exports & myanalyst 
+queries have nearly doubled 
+over the last 2 yrs)
+~2X 
+
+
+--- Page 16 ---
+LEAD GENERATION:
+Marketing
+LEAD 
+CLOSURE: 
+Sales
+ENGAGEMENT 
+& EXPANSION
+Customer 
+Success
+●Also, we have been investing across various 
+growth initiatives 
+●These span across the Go-to-market funnel of 
+marketing, sales and account expansion
+●We believe as the markets open up further, we 
+should see more acceleration than previously in 
+new customer acquisition as well as customer 
+expansion
+Growth Initiatives
+GTM Funnel
+SUPPORT
+ Customer 
+Support
+
+
+--- Page 17 ---
+Select Recent Growth Initiatives
+Organic Search Traffic* 
+(in millions)
+Note: (*) Source: Search Console & Internal Estimates (1) Current run-rate is based on Q1FY24
+1
+32X 
+Scaling Organic Traffic & Inbound Leads Pipeline
+●
+We have built a large organic inbound traffic funnel
+●
+Over 9 Million visits in FY23, current run-rate of 
+16 Million
+●
+~20X increase in 3 years
+●
+We expect this organic traffic to further increase by 30X 
+in FY24, thereby increasing inbound leads pipeline
+
+
+--- Page 18 ---
+Eg. Report coverage
+2. Increased Press Mentions: 
+     Through various media partnerships, data contributions, reports, etc. 
+eg. Regular Columns in newspapers
+800+ 
+Press Mentions 
+across media*
+eg. Others
+2
+Note: (*) in Q1 FY24 
+Select Recent Growth Initiatives
+
+
+--- Page 19 ---
+1. Expanding coverage of Company Financials & Captables 
+●Currently cover private company financials across 15+ countries and captables 
+across 10+ countries
+●Seeing demand for this data - especially from Private Equity (PE) and 
+Investment Banking (IB) segments among others
+●For illustration - An investor is looking to scan an upcoming space like “single 
+speciality hospital chain” or “D2C , Internet-first brands” in a particular country, 
+and in addition to interesting companies, market landscape, also those with 
+>50Cr. revenue scale
+●Hence, increasing coverage of these datasets. Bulk of the increments required 
+for this (eg. team size increase) is already done 
+●We believe this will help us accelerate revenue growth and increase our 
+penetration within the customer segments especially PE & IB
+Private Company 
+Financials
+Currently across 15+ Countries
+…
+Private Company 
+Captables
+Currently across 10+ Countries
+…
+3
+Select Recent Growth Initiatives
+
+
+--- Page 20 ---
+Q1 FY24: FCF lower on YoY basis
+FCF (Free Cash Flow)1
+(in INR Cr.)
+Cash & Cash Equivalents1,2
+(in INR Cr.)
+61.9 Cr. 
+     Added 14.1 Cr. YoY
+     30% YoY
+   (0.9)Cr.
+Note: (1) Free Cash Flow and Cash & Cash eqv excludes tax amounts received from employees against ESOP exercise as on 30th June 2023
+          (2) Cash & Cash eqv = Cash & Cash eqv, Investments & FDs, Security Deposit towards listing as on 30th June 2023.   
+Historical Annual
+Revenue increased by 8%, collections increased but FCF 
+lower due to increased employee, rent and other expense 
+   
+14.1Cr.
+   30%
+
+
+--- Page 21 ---
+Q1 FY24: Other KPIs (1/2)
+Users (#)
+Customer Accounts (#)
+  9%
+    6%
+20%
+CAGR
+20%
+CAGR
+Note: Customer Accounts and Users are as on respective end of period
+Historical Annual
+Historical Annual
+User count got optimized also due to 
+tightening of logins
+
+
+--- Page 22 ---
+Q1 FY24: Other KPIs (2/2)
+Entities Profiled, on platform (in millions)
+Contract Price (in INR Cr.)
+   23%
+   13%
+Note: Contract Price is net invoicing done in a given period adjusted for unbilled revenue for the period, till the time of measurement
+Entities Profiled are as on respective end of period
+27%
+CAGR
+26%
+CAGR
+Historical Annual
+Historical Annual
+ 
+
+
+--- Page 23 ---
+ Historical annual 
+Customers span over 50+ countries*
+Global Customer Base
+International Revenue
+66%
+Indian 
+Revenue 
+~66% international revenue in Q1 FY24
+International Revenue Share 
+Top 5 countries by #customer accounts*: 
+India, USA, Singapore, Germany, UK
+Note: (*) Based on Customer Accounts as on End of Period
+
+
+--- Page 24 ---
+Diverse Customer Base
+Venture 
+Capital
+Accelerator 
+& 
+Incubators
+Investment 
+Banking
+Private 
+Equity
+Family 
+Offices
+Corporate 
+Development
+Companies
+Corporate 
+Venture 
+Capital
+Corporate 
+Innovation
+Digital 
+Transformation
+Consulting
+M&A Teams
+Investment Industry
+Corporate
+Others
+Universities
+Government 
+Agencies
+
+
+--- Page 25 ---
+Business Overview
+
+
+--- Page 26 ---
+Our Journey
+2012
+- Company 
+incorporated
+2013-15
+Platform Launched
+2015-16
+- ‘Top 100 Analytics 
+Startups of 2015’ - 
+Forbes
+- One of the ‘Coolest 
+Startups of India’ - 
+Business Today (2016)
+2017-19
+- Launched ‘Tracxn 
+Score’, reports and 
+live chat features
+- Launched 
+personalised 
+dashboards on our 
+platform
+- Launched a 
+portfolio tracker and 
+an acquisitions 
+database on our 
+platform
+2020-21
+- Crossed customers 
+in 50 countries
+- Launched 
+advanced search 
+feature within 
+platform 
+- Launched a 
+collection of 
+sector-based 
+newsletters on the 
+platform
+2021-22
+- Became a publicly 
+listed company on 
+20th Oct 2022
+- Launched updated 
+Home Dashboard 
+with personalised 
+feed
+Current
+- Among the 
+Leading global 
+market intelligence 
+providers for private 
+company data^
+- One of the largest 
+global coverage of 
+private companies  
+in the emerging 
+technology sectors^
+Sachin Bansal Binny Bansal
+50+ 
+Countries
+Ratan N Tata
+NRJN Family Trust
+Note: (^) According to “Global Information Services Market” report by Frost & Sullivan
+Timeline is basis calendar years
+Listed on
+
+
+--- Page 27 ---
+Significant cost advantage due to 
+make-in-India. Especially: 
+●
+Data-production & technology 
+platform is built from India
+●
+Global sales happens from India 
+(sales & support teams work across 
+all time zones)
+●
+Very efficient content-driven 
+customer acquisition flywheel
+These give us a significant and 
+long-lasting cost advantage
+Significant cost advantages from India-based 
+operations
+N.America
+India 
+S.America
+Middle East
+Africa
+Asia
+Australia
+Europe
+
+
+--- Page 28 ---
+Experienced Promoters & Board of Directors
+▪B.Tech. & M.Tech. from IIT Bombay 
+& MBA from Leland Stanford Junior 
+University  
+▪Worked previously at BCG & Sequoia 
+Capital 
+▪Recognitions
+▪
+Outstanding Woman (Business 
+Outlook – 2016)
+▪
+‘The 40 who matter in the Indian 
+start-up ecosystem ‘(Mint – 2016)
+▪
+Part of ‘40 under 40’ (Fortune 
+India - 2018 & 2019)
+Neha Singh
+Chairperson and Managing 
+Director
+▪B.Tech. from IIT Kanpur 
+▪Worked previously at Accel, 3i 
+Infotech, Amazon, Yahoo, 
+Andale & Erasmic
+▪Recognitions
+▪
+Part of ‘40 under 40’ (Fortune 
+India - 2018 & 2019)
+Abhishek Goyal
+Vice Chairman and 
+Executive Director
+▪BA from University of Delhi & 
+PGPM from ISB, Hyderabad
+▪Corporate Development Manager 
+at Google  India
+▪Worked previously at Peepul 
+Capital, Aspada Investment & 
+Flipkart 
+Payal Goel
+Independent Director
+▪B.Tech. from IIT Delhi & MS from 
+University of North Carolina at 
+Chapel Hill
+▪Managing Partner at JSM Advisors 
+▪Worked previously at Microsoft, 
+IBM, Google & SAIF Partners
+Rohit Jain 
+Independent Director
+▪B.S. from University of Michigan 
+& MBA from Northwestern 
+University 
+▪CEO of Overleap Networks
+▪Worked previously at Flipkart & 
+Canaan Advisors 
+Nishant Verman
+Independent Director
+▪B.Tech. from Maharshi Dayanand 
+University & PGP from IIM Bangalore 
+▪Co-Founder & CEO of Smart 
+Technologies
+▪Worked previously at Bain, Flextronics, 
+Infosys & Nexus India 
+Brij Bhushan
+Independent Director
+
+
+--- Page 29 ---
+Supported by Senior Management Team Backed by 
+Marquee Investors
+▪B.Tech. from MNNIT-Allahabad & 
+MBA from XLRI 
+▪Worked previously at Amba 
+research, Emanation, GS & 
+Centrum
+Amit Agarwal
+Chief Operating Officer
+▪B.Tech. from IIT Kanpur & MBA 
+from IIM Lucknow
+▪Worked previously at Infosys & 
+Amdocs
+Prashant Chandra
+Chief Financial Officer
+▪MS from University of Pune
+▪Worked previously at Amazon, 
+Decho, Arcot & Roam Space 
+Neeraj Chopra
+Chief Technology Officer
+▪B.Tech. from IIT Kharagpur & 
+PGPM from ISB
+▪Worked previously at CEAT, 
+Nomura & FlexAlgo
+Bhaskar Sharma
+Chief Product Officer
+NRJN Family 
+Trust
+Neeraj Arora
+VH Capital
+Ex-Whatsapp
+Anand 
+Rajaramnan
+Milliways Fund
+Founder - Junglee
+Amit Ranjan 
+Founder - 
+Slideshare
+Ratan N Tata
+Chairman Emeritus 
+- TATA Sons
+Sachin Bansal 
+Co-Founder 
+-Flipkart
+Binny Bansal
+Co-Founder - 
+Flipkart
+Girish 
+Mathrubootham
+Founder & CEO - 
+Freshworks
+Motilal Oswal
+Nippon 
+Reliance General Insurance
+Tara Emerging Fund
+WhiteOak Capital
+Abakkus
+BNP Paribas 
+ICICI Prudential
+Kotak Mahindra MF
+Kotak Mahindra Life Insurance 
+Investors who backed us in private journey
+*
+Investors who backed us in IPO Anchor Book
+
+
+--- Page 30 ---
+Wide range of business and workflow tools – 
+Inbuilt CRM tool, custom dashboard builder, tools for 
+sourcing, tracking companies, portfolio tracking, API 
+support, browser extensions, ability to save searches 
+and provide alerts and export tools
+Enterprise grade support – for customer queries 
+with personalized support over chat, email and instant 
+messaging applications
+In-house data mining engine – automate 
+discovery of new-age companies by tracking 700 mn+ 
+domains across emerging technology sectors and 
+sector classification of entities tracked
+Multiple products introduced on platform 
+since inception –  soonicorn coverage,  
+personalized dashboards, Tracxn Score, live chat, and 
+others
+Scalable backend framework – based on open 
+source technologies
+Automated – based on web crawling and data 
+engine to track millions of web domains, track data 
+points across digital footprint of entities and add 
+several companies to database
+Flexible platform – aids launching of new features
+Hosted on cloud servers – ensures minimum 
+downtime 
+Advanced security – in-built security features 
+provided by the cloud infrastructure provider
+Virtual private cloud – allows to establish a secure 
+internal network & a safe gateway to enable 
+communication of internal resources
+Industry grade HTTPS – for encrypted 
+communication over the internet
+Periodic checks – tools to periodically check on 
+potential security threats
+Robust Technology Platform
+1
+2
+3
+4
+
+
+--- Page 31 ---
+Note: (*) Revenue of key public market data companies has been calculated based on the publicly available sources and internal estimates
+Large & Growing Market
+Multiple large companies have been created in the financial data markets
+$30B+ 
+Cumulative Revenue of 
+Financial Market Data 
+Companies for 2022* 
+
+
+--- Page 32 ---
+Private Market AUM Growth1
+(in USD trillion)
+Public Market Capitalization2
+(in USD trillion)
+12.6%
+CAGR
+11.7%
+CAGR
+Private market AUM has crossed $9T, and is growing at ~12%
+Note: (1) According to Frost & Sullivan report (2) Source: World Bank, public market cap is of as on end of year 
+(*) Estimated private market AUM numbers as in Frost & Sullivan report
+Large & Growing Market
+6%
+CAGR
+Cumulative market capitalization of listed domestic companies 
+across all the countries converted to USD
+
+
+--- Page 33 ---
+Q1 FY24 Detailed Financial Statements
+
+
+--- Page 34 ---
+Profit & Loss Statement (1/2)
+ 
+In INR Cr.
+Particulars
+Q1 FY24
+Q4 FY23
+Q1 FY23
+FY23
+Income
+Revenue from operations
+19.82
+20.34
+18.40
+78.11
+Other income
+0.20
+0.24
+0.27
+1.31
+Other gains/(losses) - net
+0.75
+0.49
+0.41
+1.76
+Total Income
+20.77
+21.07
+19.08
+81.18
+Expenses
+Employee benefit expense
+17.38
+17.58
+16.17
+66.98
+Depreciation expense
+0.04
+0.07
+0.02
+0.19
+Other expenses
+2.43
+2.07
+2.05
+8.55
+Total Expenses
+19.85
+19.71
+18.24
+75.72
+Profit / (Loss) before tax and exceptional items
+0.92
+1.36
+0.84
+5.46
+Current tax
+0.05
+0.12
+-
+0.12
+Deferred Tax
+0.18
+(23.26)
+-
+(23.26)
+Exceptional Items - IPO Expenses
+-
+-
+-
+(4.49)
+Profit / (loss) for the period
+0.69
+24.50
+0.84
+33.09
+
+
+--- Page 35 ---
+Particulars
+Q1FY24
+Q4FY23
+Q1FY23
+FY23
+Profit / (loss) for the period
+0.69
+24.50
+0.84
+33.09
+Less: Other Income
+0.20
+0.24
+0.27
+1.31
+Less: Other gains/(losses) - net
+0.75
+0.49
+0.41
+1.76
+Add: Depreciation expense
+0.04
+0.07
+0.02
+0.19
+Add: Current tax
+0.05
+0.12
+-
+0.12
+Add: Deferred tax expense
+0.18
+(23.26)
+-
+(23.26)
+EBITDA
+0.02
+0.69
+0.19
+7.06
+EBITDA Margin
+0.08%
+3.42%
+1.01%
+9.04%
+Add: Exceptional items - IPO expenses, reimbursable
+-
+-
+-
+(4.49)
+EBITDA excl IPO expense
+0.02
+0.69
+0.19
+2.57
+EBITDA Margin excl IPO expense
+0.08%
+3.42%
+1.01%
+3.29%
+Profit / (loss) for the period
+0.69
+24.50
+0.84
+33.09
+Add: Exceptional items - IPO expenses, reimbursable
+-
+-
+-
+(4.49)
+Add: Deferred tax expense
+-
+(23.26)
+-
+(23.26)
+PAT excl IPO expense and Deferred Tax
+0.69
+1.25
+0.84
+5.34
+PAT Margin excl IPO expense and Deferred Tax
+3.48%
+6.12%
+4.54%
+6.84%
+Profit & Loss Statement (2/2)
+In INR Cr.
+
+
+--- Page 36 ---
+(1)
+Customer Accounts refers to the distinct contracts entered into by our Company with each customer, at the time of 
+measurement. A customer account may include access for a single or multiple number of Users.
+(2)
+Users refers to the number of activated user accesses on the platform at the time of measurement and does not include bulk 
+users like university/educational institutes accounts
+(3)
+Contract Price is net invoicing done in a given period adjusted for unbilled revenue for the period, till the time of measurement
+(4)
+Entities Profiled refer to the profiles published and available on the platform to the user at the time of measurement. 
+(5)
+EBITDA is a non-GAAP financial metric, calculated as Profit/(loss) for the period minus Other Income and Other gains/ (losses) 
+- net, plus Depreciation and Amortization Expenses,  plus Finance Costs, if any plus Income Tax Expense
+(6)
+EBITDA excluding IPO expense is a non-GAAP financial metric, calculated as EBITDA plus Exceptional items - IPO 
+expenses, reimbursable to the company 
+(7)
+PAT excluding IPO expense and Deferred Tax is calculated as Profit/(loss) for the period plus Exceptional items - IPO 
+expenses, reimbursable to the company plus Deferred Tax
+(8)
+PAT excluding IPO expense, Deferred Tax and CCPS is calculated as Profit/(loss) for the period plus Exceptional items - IPO 
+expenses, reimbursable to the company plus Deferred Tax minus Fair value gain/ (loss) on CCPS measured at fair value 
+through profit or loss. Fair value gain/ (loss) on CCPS adjustment has been made only for FY20 & FY21 in this presentation
+(9)
+Free Cash Flow is calculated as Net Cash Flow from/ (used in) Operating Activities less Capex (payments for purchase of 
+property, plant and equipment)
+(10)
+Organic Search Traffic - Traffic originating from an organic search result
+(11)
+Existing Customer - An account which had also contributed to the accrued revenue prior to the given financial year / period.
+(12)
+New Customer - An account contributing to the accrued revenue for the first time in the given financial year/ period
+(13)
+Headcount - Number of employees on the company payroll as on the date of measurement.
+Definitions
+
+
+--- Page 37 ---
+Thank You
+Company Information
+Address : 2nd Floor, L-248, 17th Cross,
+                Sector 6, HSR Layout,
+                Bangalore - 560102
+CIN : L72200KA2012PLC065294
+Corporate Presentation: Link
+For any queries, please contact:
+Email ID : investor.relations@tracxn.com
+www.tracxn.com/investor-relations
+
